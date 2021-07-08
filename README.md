@@ -5,4 +5,4 @@
 - 🌱 I’m currently learning ... Flutter / Firebase
 - 💓 I love playing the guitar!
 
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ユーザ名&layout=compact&theme=tokyonight)](https://github.com/kenken513/)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=ユーザ名&layout=compact&theme=tokyonight)](https://github.com/kenken513/)
