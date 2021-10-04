@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi!!👋
 
 - 💁‍♂️ I'm 17 years old.
 - 🏫 I'm a high school student.
