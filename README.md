@@ -3,7 +3,7 @@
 - 💁‍♂️ I'm 17 years old.
 - 🏫 I'm a high school student.
 - 🌱 I’m currently learning ... Flutter 
-- 💓 I love playing the Guitar and BeatBox!
+- 💓 I love Human BeatBox!
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
