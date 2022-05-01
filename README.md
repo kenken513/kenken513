@@ -1,7 +1,7 @@
 ### Hi!!👋
 
 - 🏫 I'm a high school student.
-- 🌱 I'm learning ... Flutter / Firebase / React 
+- 🌱 I'm learning ... Flutter / Firebase
 - 💓 I love Human BeatBox!
 
 
