@@ -1,7 +1,7 @@
 ### Hi!!👋
 
 - 🏫 I'm a student.
-- 🌱 I'm learning ... Flutter / Firebase
+- 🌱 I'm learning ... Flutter / Unity
 - 💓 I love Human BeatBox!
 
 
